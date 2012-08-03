@@ -1,4 +1,7 @@
 RasPi-Graphics
 ==============
 
-Raspberry Pi simple graphics
+Packages:
+python-pygame
+
+Library:
